@@ -1,7 +1,7 @@
 # Time Series XGB Regressor
 Forecasting energy/electricity demand with XGB Regressor
-[Notebook](https://github.com/sambuddharay/time-series-xgb-regressor/blob/main/Time_series_with_XGBoost.ipynb)
-[Data](https://github.com/sambuddharay/time-series-xgb-regressor/blob/main/PJME_hourly.csv)
+[Notebook](https://github.com/sambuddharay/time-series-xgb-regressor/blob/main/Time_series_with_XGBoost.ipynb)  
+[Data](https://github.com/sambuddharay/time-series-xgb-regressor/blob/main/PJME_hourly.csv)  
 [Additional Python package](https://github.com/sambuddharay/time-series-xgb-regressor/blob/main/utils.py)
 
 # Motivation
